@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasija Gricenko</h1>
 <h3 align="center">Biochemist with strong coding skills seeking a job in bioinformatics</h3>
 <h3 align ="left"> About me:</h3>
-<p> </p>
+<p> I 26 years old research associate at <a href = "https://isogenica.com/"> Isogenica </a> based in greater Cambridge area. </p>
 - 🔭 I’m currently working on **tools to speed up the phage display data analysis**
 
 - 📫 How to reach me **gricenkoanastasija@yahoo.com**
