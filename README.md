@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasija Gricenko</h1>
-<h3 align="center">Biochemist with a solid coding skills seeking the job in bioinformatics</h3>
+<h3 align="center">Biochemist with a solid coding skills seeking job in bioinformatics</h3>
 
 - 🔭 I’m currently working on **tools to speed up the phage display data analysis**
 
